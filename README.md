@@ -18,7 +18,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam.khator@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamkhator)
-[![Resume](https://img.shields.io/badge/My-Resume-black?style=for-the-badge&logo=read.cv&logoColor=white)](https://github.com/Shivamkhator/Shivamkhator/blob/main/Shivam_Khator.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobepdf&logoColor=white)](https://github.com/Shivamkhator/Shivamkhator/raw/main/Shivam_Khator.pdf)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shivamkhator)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/theshivamkhator)
