@@ -18,12 +18,11 @@
 ## 🌐 Connect With Me
 <img alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="150" align="right"/>
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobepdf&logoColor=white)](https://github.com/Shivamkhator/Shivamkhator/raw/main/Shivam_Khator.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamkhator)
+[![Email](https://img.shields.io/badge/Email-ID?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam.khator@icloud.com)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam.khator@icloud.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shivamkhator)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/theshivamkhator)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/theshivamkhator)
+[![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobepdf&logoColor=white)](https://github.com/Shivamkhator/Shivamkhator/raw/main/Shivam_Khator.pdf)
 
 ---
 
@@ -33,7 +32,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E23C4D.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 
 **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+  
 
 **Development & Deployment**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
