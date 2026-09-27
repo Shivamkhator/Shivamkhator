@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+%40+EigenSecure;I+build+things+that+ship;Applied+AI:+LLM+Voice+Agents+%26+RAG;C%23%2F.NET+%E2%80%A2+Python+%E2%80%A2+Next.js&height=30&width=700&color=D4AF37">
 </div>
 
-## Who I Am <img src="https://komarev.com/ghpvc/?username=ShivamKhator&abbreviated=true&color=000000&style=for-the-badge" alt="Profile Views" height="30" align="right" />
+# About <img src="https://komarev.com/ghpvc/?username=ShivamKhator&abbreviated=true&color=000000&style=for-the-badge" alt="Profile Views" height="30" align="right" />
 
 Software Engineer at **EigenSecure**, building backend systems in **C#/.NET** and **LangChain**-based AI workflows.
 
@@ -14,9 +14,9 @@ At **Pakka Limited**, I built an employee rewards portal with role-based access 
 
 **What I do best:** Sit between the customer and the code, find out why a system fails in the real world, and fix it until the numbers move.
 
-## What I've Shipped
+# Products Build
 
-### Terriva
+## Terriva
 [![Live Site](https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://terriva.vercel.app/) [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivamkhator/Terriva)
 
 Terriva is a menstrual-health Progressive Web App that helps users track their cycles and understand them through personalized, AI-generated insights.
@@ -28,7 +28,7 @@ Terriva is a menstrual-health Progressive Web App that helps users track their c
 
 **Stack:** Next.js, PostgreSQL, Google Gemini, NextAuth
 
-### SkyBee Routes
+## SkyBee Routes
 [![Live Site](https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=render&logoColor=white)](https://skybee-routes.onrender.com/) [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivamkhator/SkyBee_Routes)
 
 SkyBee Routes is a Django web app that computes optimal flight routes across a network of 9,000+ airports and 90,000+ routes.
@@ -39,14 +39,14 @@ SkyBee Routes is a Django web app that computes optimal flight routes across a n
 
 **Stack:** Django, NetworkX, Pandas, Amadeus API, Google Gemini, Docker
 
-## Let's Talk
+# Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iam.shivamkhator@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8+PGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIuMiIvPjxwYXRoIGQ9Ik0xMCA5aDR2MS43Yy42LTEgMS45LTIgMy44LTIgMy4zIDAgNC4yIDIuMSA0LjIgNVYyMWgtNHYtNi40YzAtMS41LS4zLTIuOC0xLjktMi44cy0yLjEgMS4yLTIuMSAyLjhWMjFoLTR6Ii8+PC9zdmc+)](https://linkedin.com/in/shivamkhator)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Shivamkhator/Shivamkhator/raw/main/Shivam_Khator_Resume.pdf)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/theshivamkhator)
 
-## My Toolkit
+# Toolkit
 
 **AI and LLMs**<br>
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
@@ -63,7 +63,7 @@ SkyBee Routes is a Django web app that computes optimal flight routes across a n
 **Tools**<br>
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## By The Numbers
+# Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamKhator&theme=dark&hide_border=true" width="100%" alt="GitHub Stats"/>
 
